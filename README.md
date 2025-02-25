@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a gig at VodafoneZiggo and a personal SaaS application.
+🔭 I’m currently working on a gig at VodafoneZiggo.
 
 <!--
 **Lesleyvdp/Lesleyvdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
